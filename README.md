@@ -1,4 +1,5 @@
 # tuzvirag
+Tűzvirág:	“Flor de fuego” – ideal para algo que florece con energía ardiente.
 
 | Fecha          | Alc | Pic | Emb | Que | Pan | Gal | Dul | CBa | Exc | Dep | Fum | Int | Cur | Men | Cla | Enf | Coc |
 |----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
